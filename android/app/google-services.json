@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754637136048",
+    "project_id": "symbex-inventory",
+    "storage_bucket": "symbex-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754637136048:android:09c2326eb017f18caddb75",
+        "android_client_info": {
+          "package_name": "symbex.dip.symbexpricelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754637136048-7gintauearupdtb674cdo9fig8d4kl4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAePwAJk46VKOZ4Y8qpWc-rQGHkFrjyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754637136048-7gintauearupdtb674cdo9fig8d4kl4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
